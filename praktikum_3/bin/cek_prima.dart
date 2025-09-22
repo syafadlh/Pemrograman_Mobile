@@ -32,3 +32,4 @@ void main() {
       print("$n bukan bilangan prima");
   }
 }
+
