@@ -20,6 +20,11 @@ void main() {
       }
     }
   }
-
-  print("Hasil cek untuk $n, prima? $prima");
+  
+  // Output hasil
+  if (prima) {
+      print("$n adalah bilangan prima");
+    } else {
+      print("$n bukan bilangan prima");
+  }
 }
