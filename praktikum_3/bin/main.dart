@@ -1,11 +1,21 @@
-// main.dart (branch: input-validation)
+// main.dart (branch: bmi-calculation)
 void main() {
   double tinggi = 170;
   double berat = 65;
 
-  if (tinggi <= 0 || berat <= 0) {
-    print("Error: Tinggi dan berat harus lebih dari 0");
+  double tinggiM = tinggi / 100;
+  double bmi = berat / (tinggiM * tinggiM);
+
+  String kategori;
+  if (bmi < 18.5) {
+    kategori = "Kurus";
+  } else if (bmi < 25) {
+    kategori = "Normal";
+  } else if (bmi < 30) {
+    kategori = "Gemuk";
   } else {
-    print("Input valid: Tinggi = $tinggi cm, Berat = $berat kg");
+    kategori = "Obesitas";
   }
+
+  print("BMI Anda: ${bmi.toStringAsFixed(2)} ($kategori)");
 }
