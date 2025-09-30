@@ -85,3 +85,28 @@
 ![04](images/demo4.gif)
 
 ---
+
+### 5. Menambahkan Kolom Samping Navigasi
+- Memisahkan MyHomePage menjadi GeneratorPage
+
+![05](images/tp5.png)
+
+- Mengubah MyHomePage menjadi StatefulWidget
+
+![05](images/tp5.1.png)
+
+- Menambahkan selectedIndex & setState
+
+![05](images/demo5.gif)
+
+- Menentukan halaman sesuai selectedIndex
+
+
+![05](images/demo5.1.gif)
+
+- Membuat NavigationRail responsif
+NavigationRail responsif saat memperbesar/memperkecil jendela
+
+![05](images/demo5.2.gif)
+
+---
