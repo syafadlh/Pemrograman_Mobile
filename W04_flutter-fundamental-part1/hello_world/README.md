@@ -18,11 +18,11 @@
 ## Praktikum 2: Menghubungkan Perangkat Android atau Emulator  
 - Menghubungkan perangkat Android melalui kabel USB atau menggunakan emulator.  
 - Pada Android Studio, memilih Pair Devices Using Wi-Fi.  
-![Screenshot Praktikum 2](images/prak2.2png)
+![Screenshot Praktikum 2](images/Prak2.2png)
 - Melakukan pemindaian QR Code dari komputer ke perangkat Android.  
-![Screenshot Praktikum 2](images/prak2.3.png)
+![Screenshot Praktikum 2](images/Prak2.3.png)
 - Perangkat berhasil terhubung.  
-![Screenshot Praktikum 2](images/prak2.4.png)
+![Screenshot Praktikum 2](images/Prak2.4.png)
 
 ---
 
