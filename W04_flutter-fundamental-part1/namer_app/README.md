@@ -107,6 +107,10 @@
 - Membuat NavigationRail responsif
 NavigationRail responsif saat memperbesar/memperkecil jendela
 
-![05](images/demo5.2.gif)
+![06](images/demo5.2.gif)
 
 ---
+
+### 6. Menambahkan Halaman Baru
+
+![06](images/demo6.gif)
