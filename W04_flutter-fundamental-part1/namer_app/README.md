@@ -66,3 +66,22 @@
 ![03](images/demo3.5.gif)
 
 ---
+
+### 4. Menambahkan Fungsi “Like”
+- Menambahkan logika bisnis
+
+![04](images/tp4.png)
+
+- Membungkus tombol Next dengan Row
+
+![04](images/tp4.1.png)
+
+- Menambahkan tombol Like
+
+![04](images/tp4.2.png)
+
+- Tampilan akhir UI setelah penambahan tombol Like
+
+![04](images/demo4.gif)
+
+---
