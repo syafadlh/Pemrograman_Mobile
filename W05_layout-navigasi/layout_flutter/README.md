@@ -27,7 +27,17 @@ Buat project Flutter baru di **VS Code** dengan nama `layout_flutter`.
 3. Setiap kolom atau baris dapat ditata menggunakan Row, Column, Expanded, dan Container.
 
 **Langkah 4: Membuat Title Row**
+
 Tambahkan kode di dalam metode build() (sebelum return MaterialApp).
 <img src="images/P1.4.png" alt="Praktikum 1" width="300"/>
 Maka hasil outputnya:
 <img src="images/P1.3.png" alt="Praktikum 1" width="300"/>
+
+---
+
+## Praktikum 2: Implementasi Button Row
+**Langkah 1: Buat method _buildButtonColumn**
+1. Tambahkan method _buildButtonColumn(Color color, IconData icon, String label) di dalam class MyApp (di luar build())
+<img src="images/P1.2.png" alt="Praktikum 2" width="300"/>
+_Method _buildButtonColumn disiapkan untuk membuat ikon + teks dalam baris tombol yang rapi._
+
