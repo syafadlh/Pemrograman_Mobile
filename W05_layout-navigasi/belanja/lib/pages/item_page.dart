@@ -1,16 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:belanja/models/item.dart';
 
 class ItemPage extends StatelessWidget {
   const ItemPage({super.key});
 
   @override
   Widget build(BuildContext context) {
+    final item = ModalRoute.of(context)!.settings.arguments as Item;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Item Page'),
+        title: Text(item.name),
       ),
-      body: const Center(
-        child: Text('Welcome to the Item Page!'),
+      body: Center(
+        child: Text('Price: \$${item.price}'),
       ),
     );
   }

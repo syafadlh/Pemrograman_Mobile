@@ -39,3 +39,12 @@
 <img src="images/P5.1.png" alt="Praktikum 5" width="300"/>
 
 *list ini akan menjadi sumber data untuk ListView.*
+
+**Langkah 6: Membuat ListView dan itemBuilder**
+1. Gunakan ListView.builder untuk menampilkan daftar
+
+<img src="images/P6.1.png" alt="Praktikum 5" width="300"/>
+
+Maka, hasil outputnya:
+
+<img src="images/P6.2.png" alt="Praktikum 5" width="300"/>
