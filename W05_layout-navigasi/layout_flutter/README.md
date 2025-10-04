@@ -90,3 +90,8 @@ Maka, hasil outputnya:
 3. Daftarkan gambar di pubspec.yaml:
 
 <img src="images/P4.2.png" alt="Praktikum 4" width="300"/>
+
+**Langkah 2: Tambahkan gambar ke body**
+1. Buat widget imageSection menggunakan Image.asset:
+
+<img src="images/P4.3.png" alt="Praktikum 4" width="300"/>

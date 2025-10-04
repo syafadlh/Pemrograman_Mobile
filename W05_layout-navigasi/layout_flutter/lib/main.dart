@@ -9,7 +9,14 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Widget titleSection = Container(
+    //Image Section
+    Widget imageSection = Image.asset(
+      'images/bromo.jpg',
+      width: 600,
+      height: 240,
+      fit: BoxFit.cover,
+    );
+    Widget titleSection = Container(  
       //Title Section
       padding: const EdgeInsets.all(32),
       child: Row( 
