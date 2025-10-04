@@ -59,3 +59,28 @@ Maka, hasil outputnya:
 Maka, hasil outputnya:
 
 <img src="images/G7.1.gif" alt="Praktikum 5" width="300"/>
+
+---
+
+## Tugas Praktikum 2
+1. Mengirim Data ke Halaman Berikutnya
+
+<img src="images/G7.1.gif" alt="TP 2" width="300"/>
+
+
+2. Membaca Nilai di Halaman Berikutnya
+
+<img src="images/TP2.1.png" alt="TP 2" width="300"/>
+
+3. Menambahkan Atribut Foto, Stok, dan Rating
+    - Update models/item.dart:
+
+    <img src="images/TP2.2.png" alt="TP 2" width="300"/>
+
+    - Update daftar items di home_page.dart:
+    
+    <img src="images/TP2.3.png" alt="TP 2" width="300"/>
+
+4. Modifikasi menggunakan plugin go_router
+
+<img src="images/G8.1.gif" alt="TP 2" width="300"/>
