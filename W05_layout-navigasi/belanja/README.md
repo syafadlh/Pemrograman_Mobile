@@ -23,3 +23,8 @@
     - item_page.dart → class ItemPage extends StatelessWidget
 
     <img src="images/P2.2.png" alt="Praktikum 5" width="300"/>
+
+**Langkah 3: Lengkapi Kode di main.dart**
+
+<img src="images/P3.1.png" alt="Praktikum 5" width="300"/>
+
