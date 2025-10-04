@@ -48,3 +48,14 @@
 Maka, hasil outputnya:
 
 <img src="images/P6.2.png" alt="Praktikum 5" width="300"/>
+
+**Langkah 7: Menambahkan aksi pada ListView**
+1. Wrap Card dengan InkWell untuk aksi klik
+
+<img src="images/P7.1.png" alt="Praktikum 5" width="300"/>
+
+*hal ini memungkinkan perpindahan ke halaman ItemPage dengan data item yang dipilih*
+
+Maka, hasil outputnya:
+
+<img src="images/G7.1.gif" alt="Praktikum 5" width="300"/>
