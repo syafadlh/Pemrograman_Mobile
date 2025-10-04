@@ -95,3 +95,12 @@ Maka, hasil outputnya:
 1. Buat widget imageSection menggunakan Image.asset:
 
 <img src="images/P4.3.png" alt="Praktikum 4" width="300"/>
+
+**Langkah 3: Ubah Column menjadi ListView**
+1. Ganti widget Column di body menjadi ListView:
+
+<img src="images/P4.4.png" alt="Praktikum 4" width="300"/>
+
+Maka, hasil outputnya:
+
+<img src="images/G4.1.gif" alt="Praktikum 4" width="300"/>
