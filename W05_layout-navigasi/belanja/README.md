@@ -33,3 +33,9 @@
 
 <img src="images/P4.1.png" alt="Praktikum 5" width="300"/>
 
+**Langkah 5: Lengkapi kode di class HomePage**
+1. Buat daftar Item:
+
+<img src="images/P5.1.png" alt="Praktikum 5" width="300"/>
+
+*list ini akan menjadi sumber data untuk ListView.*
