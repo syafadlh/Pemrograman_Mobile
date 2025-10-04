@@ -28,3 +28,8 @@
 
 <img src="images/P3.1.png" alt="Praktikum 5" width="300"/>
 
+**Langkah 4: Membuat data model**
+1. Buat file models/item.dart dengan class Item:
+
+<img src="images/P4.1.png" alt="Praktikum 5" width="300"/>
+
