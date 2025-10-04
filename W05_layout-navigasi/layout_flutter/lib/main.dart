@@ -23,14 +23,14 @@ class MyApp extends StatelessWidget {
                 Container(
                   padding: const EdgeInsets.only(bottom: 8),
                   child: const Text(
-                    'Wisata Gunung di Batu',
+                    'Wisata Gunung Bromo',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                     ),
                   ),
                 ),
                 Text(
-                  'Batu, Malang, Indonesia',
+                  'Probolinggo, Jawa Timur, Indonesia',
                   style: TextStyle(
                     color: Colors.grey,
                   ),
@@ -87,6 +87,7 @@ class MyApp extends StatelessWidget {
           children: [
             titleSection,
             buttonSection,
+            textSection,
           ],
         ),
       ),

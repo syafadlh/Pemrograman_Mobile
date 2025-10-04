@@ -68,3 +68,12 @@ Maka hasil outputnya:
 1. Di dalam build(), setelah buttonSection dibuat, tambahkan variabel textSection:
 
 <img src="images/P3.1.png" alt="Praktikum 3" width="300"/>
+
+**Langkah 2: Tambahkan textSection ke body**
+1. Di body: Column(children: [...]), tambahkan textSection setelah buttonSection:
+
+<img src="images/P3.2.png" alt="Praktikum 3" width="300"/>
+
+Maka, hasil outputnya:
+
+<img src="images/P3.3.png" alt="Praktikum 3" width="300"/>
