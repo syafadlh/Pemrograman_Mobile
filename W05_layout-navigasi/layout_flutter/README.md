@@ -77,3 +77,16 @@ Maka hasil outputnya:
 Maka, hasil outputnya:
 
 <img src="images/P3.3.png" alt="Praktikum 3" width="300"/>
+
+---
+
+## Praktikum 4: Implementasi Image Section
+**Langkah 1: Siapkan aset gambar**
+1. Buat folder images di root project layout_flutter.
+
+<img src="images/P4.1.png" alt="Praktikum 4" width="300"/>
+
+2. Masukkan file gambar, misalnya bromo.jpg, ke folder images.
+3. Daftarkan gambar di pubspec.yaml:
+
+<img src="images/P4.2.png" alt="Praktikum 4" width="300"/>
