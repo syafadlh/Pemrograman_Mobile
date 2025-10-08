@@ -44,5 +44,15 @@ Mendapatkan info error akan muncul error "Undefined name 'text'" karena variabel
 **Langkah 5: Buat Variabel text dan parameter di constructor**
 1. Tambahkan variabel text dan parameter di constructor seperti berikut:
 
-<img src="images/P5.1.png" alt="Langkah 4" width="300"/>
+<img src="images/P5.1.png" alt="Langkah 5" width="300"/>
+
+**Langkah 6: Tambahkan widget di main.dart**
+1. Edit lib/main.dart, cari bagian children: di dalam _MyHomePageState, tambahkan kode berikut:
+
+<img src="images/P6.1.png" alt="Langkah 6" width="300"/>
+
+2. Jalankan Aplikasi
+
+<img src="images/P6.2.png" alt="Langkah 6" width="300"/>
+
 
