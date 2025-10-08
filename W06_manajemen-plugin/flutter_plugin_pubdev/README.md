@@ -40,3 +40,9 @@
 <img src="images/P4.1.png" alt="Langkah 4" width="300"/>
 
 Mendapatkan info error akan muncul error "Undefined name 'text'" karena variabel text belum dideklarasikan di kelas RedTextWidget.
+
+**Langkah 5: Buat Variabel text dan parameter di constructor**
+1. Tambahkan variabel text dan parameter di constructor seperti berikut:
+
+<img src="images/P5.1.png" alt="Langkah 4" width="300"/>
+
