@@ -32,3 +32,11 @@
 2. Isi awal kodenya:
 
 <img src="images/P3.2.png" alt="Langkah 3" width="300"/>
+
+
+**Langkah 4: Tambah Widget AutoSizeText**
+1. Edit file red_text_widget.dart menjadi:
+
+<img src="images/P4.1.png" alt="Langkah 4" width="300"/>
+
+Mendapatkan info error akan muncul error "Undefined name 'text'" karena variabel text belum dideklarasikan di kelas RedTextWidget.
