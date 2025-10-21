@@ -1,16 +1,23 @@
-# ocr_sederhana
+# Pertemuan 8 - Ujian Tengah Semester
 
-A new Flutter project.
+**Mata Kuliah : Pemrograman Mobile**  
+**Nama        : Susilowati Syafa Adilah**  
+**NIM         : 2341760095**  
+**Kelas       : SIB 3F**  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## INSTRUKSI AWAL (SETUP)
 
-A few resources to get you started if this is your first Flutter project:
+**Langkah 1: Buat Project Baru**
+1. Buka proyek Flutter:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="images/g.1.png" alt="Langkah 1" width="300"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Cek repositori Git:
+
+<img src="images/g.1.png" alt="Langkah 1" width="300"/>
+
+3. Commit awal:
+
+<img src="images/g.1.png" alt="Langkah 1" width="300"/>
