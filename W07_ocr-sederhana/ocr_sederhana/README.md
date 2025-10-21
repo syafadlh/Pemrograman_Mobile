@@ -39,6 +39,18 @@
 
 <img src="images/s1.3.png" alt="Soal 1" width="300"/>
 
-6. Hasil Output:
 
-<img src="images/s1.3.png" alt="Soal 1" width="300"/>
+---
+
+## SOAL 2 – Tampilan Loading & Error Handling
+
+1. Buka file: lib/screens/scan_screen.dart
+2. Modifikasi tampilan loading (saat kamera belum siap):
+
+<img src="images/s2.1.png" alt="Soal 2" width="300"/>
+
+3. Perbarui pesan error pada catch (e):
+
+<img src="images/s2.2.png" alt="Soal 2" width="300"/>
+
+---

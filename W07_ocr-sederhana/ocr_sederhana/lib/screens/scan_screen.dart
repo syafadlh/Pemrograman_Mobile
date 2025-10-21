@@ -27,8 +27,8 @@ class _ScanScreenState extends State<ScanScreen> {
     try {
       cameras = await availableCameras();
       _controller = CameraController(cameras.first, ResolutionPreset.medium);
-      _initializeControllerFuture = _controller!.initialize(); 
-      await _initializeControllerFuture; 
+      _initializeControllerFuture = _controller!.initialize();
+      await _initializeControllerFuture;
       if (mounted) {
         setState(() {});
       }
@@ -77,16 +77,35 @@ class _ScanScreenState extends State<ScanScreen> {
       );
     } catch (e) {
       if (!mounted) return;
+      // Pesan error sudah diperbarui
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Error saat mengambil / memproses foto: $e')),
+        const SnackBar(
+          content: Text('Pemindaian Gagal! Periksa Izin Kamera atau coba lagi.'),
+        ),
       );
     }
   }
 
   @override
   Widget build(BuildContext context) {
+    // Tampilan loading kustom 
     if (_controller == null || !_controller!.value.isInitialized) {
-      return const Scaffold(body: Center(child: CircularProgressIndicator()));
+      return Scaffold(
+        backgroundColor: Colors.grey[900],
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: const [
+              CircularProgressIndicator(color: Colors.yellow),
+              SizedBox(height: 20),
+              Text(
+                'Memuat Kamera... Harap tunggu.',
+                style: TextStyle(color: Colors.white, fontSize: 18),
+              ),
+            ],
+          ),
+        ),
+      );
     }
 
     return Scaffold(
