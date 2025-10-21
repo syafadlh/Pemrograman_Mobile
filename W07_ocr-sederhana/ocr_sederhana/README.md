@@ -25,44 +25,15 @@
 
 ## SOAL 1 – Modifikasi Navigasi & Alur
 
-1. Buka file: lib/screens/home_screen.dart
-2. Ubah tombol lama menjadi ListTile:
-
-<img src="images/s1.1.png" alt="Soal 1" width="300"/>
-
-3. Buka file: lib/screens/result_screen.dart
-4. Tampilkan teks utuh:
-
-<img src="images/s1.2.png" alt="Soal 1" width="300"/>
-
-5. Tambah tombol FloatingActionButton untuk kembali ke Home:
-
-<img src="images/s1.3.png" alt="Soal 1" width="300"/>
-
-
----
+[Lihat Video Demonstrasi TTS di Google Drive](https://drive.google.com/file/d/1OfurVJUBL-wSYUu0I_d3D5qQ-K7nov6f/view?usp=sharing)
 
 ## SOAL 2 – Tampilan Loading & Error Handling
 
-1. Buka file: lib/screens/scan_screen.dart
-2. Modifikasi tampilan loading (saat kamera belum siap):
+[Lihat Video Demonstrasi TTS di Google Drive](https://drive.google.com/file/d/1m-u_8oJd-SGFZzd2zVjqWyM6vcXinQHY/view?usp=sharing)
 
-<img src="images/s2.1.png" alt="Soal 2" width="300"/>
-
-3. Perbarui pesan error pada catch (e):
-
-<img src="images/s2.2.png" alt="Soal 2" width="300"/>
 
 ---
 
 ## SOAL 3 – Implementasi Text-to-Speech (TTS)
-
-1. Tambahkan plugin di pubspec.yaml:
-
-<img src="images/s3.1.png" alt="Soal 3" width="300"/>
-
-2. Ubah ResultScreen menjadi StatefulWidget:
-
-<img src="images/s3.1.png" alt="Soal 2" width="300"/>
-
-
+**Hasil Output:**
+[Lihat Video Demonstrasi TTS di Google Drive](https://drive.google.com/file/d/12vIuUzqHYjXgwoepeLk5CVlEOpKZSQCD/view?usp=sharing)
