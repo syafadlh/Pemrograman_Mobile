@@ -54,3 +54,15 @@
 <img src="images/s2.2.png" alt="Soal 2" width="300"/>
 
 ---
+
+## SOAL 3 – Implementasi Text-to-Speech (TTS)
+
+1. Tambahkan plugin di pubspec.yaml:
+
+<img src="images/s3.1.png" alt="Soal 3" width="300"/>
+
+2. Ubah ResultScreen menjadi StatefulWidget:
+
+<img src="images/s3.1.png" alt="Soal 2" width="300"/>
+
+
